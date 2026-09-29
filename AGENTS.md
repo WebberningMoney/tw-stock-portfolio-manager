@@ -2,7 +2,7 @@
 
 ### Issue tracker
 
-Issues tracked as GitHub Issues in `WebberningMoney/TW_Stock_Portfolio_yfinance` via the `gh` CLI. See `docs/agents/issue-tracker.md`.
+Issues tracked as GitHub Issues in `WebberningMoney/tw-stock-portfolio-manager` via the `gh` CLI. See `docs/agents/issue-tracker.md`.
 
 ### Domain docs
 
